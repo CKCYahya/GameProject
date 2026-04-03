@@ -1,0 +1,10 @@
+# Kütüphaneler
+libs/glfw/
+libs/glm/
+libs/imgui/
+libs/stb/
+libs/glad/
+
+# Derleme Klasörleri
+build/
+.vscode/
